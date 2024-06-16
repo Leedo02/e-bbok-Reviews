@@ -1,0 +1,115 @@
+{
+  "btnData": [
+    { "id": 1, "btnType": "headerBtn", "btnText": "베스트 도서" },
+    { "id": 2, "btnType": "headerBtn", "btnText": "트렌딩 독후감" },
+    { "id": 3, "btnType": "headerBtn", "btnText": "카테고리" },
+    { "id": 4, "btnType": "headerBtn", "btnText": "내 독후감" }
+  ],
+  "dummyPostData": [
+    {
+      "title": "The Great Gatsby",
+      "rating": 4.5,
+      "author": "John Doe",
+      "date": "2024-01-01",
+      "review": "이 책은 아메리칸 드림의 허무함을 잘 그려냈습니다. 화려한 파티와 비극적 사랑이 인상적이었습니다. 결말이 너무 슬펐어요."
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "rating": 5.0,
+      "author": "Jane Smith",
+      "date": "2024-02-10",
+      "review": "인종 차별 문제를 다룬 중요한 책입니다. 스카웃의 시선으로 본 세상이 신선했습니다. 꼭 읽어야 할 고전입니다."
+    },
+    {
+      "title": "1984",
+      "rating": 4.0,
+      "author": "Alice Johnson",
+      "date": "2024-03-15",
+      "review": "디스토피아 사회를 경고하는 책입니다. 빅 브라더의 감시가 무서웠습니다. 현대 사회를 생각하게 만드는 작품입니다."
+    },
+    {
+      "title": "Pride and Prejudice",
+      "rating": 4.7,
+      "author": "Robert Brown",
+      "date": "2024-04-20",
+      "review": "엘리자베스와 다아시의 사랑 이야기가 매력적입니다. 사회적 편견을 뛰어넘는 사랑이 아름다웠습니다. 재미있게 읽었습니다."
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "rating": 3.8,
+      "author": "Emily Davis",
+      "date": "2024-05-05",
+      "review": "홀든의 방황과 성장이 공감되었습니다. 청소년기의 혼란을 잘 표현했습니다. 다소 우울한 분위기였습니다."
+    },
+    {
+      "title": "Moby Dick",
+      "rating": 3.5,
+      "author": "Michael Wilson",
+      "date": "2024-06-01",
+      "review": "긴 여정과 고래 사냥의 모험이 인상적입니다. 다소 지루한 부분도 있었습니다. 결말이 강렬했습니다."
+    },
+    {
+      "title": "War and Peace",
+      "rating": 4.2,
+      "author": "Laura Martinez",
+      "date": "2024-07-10",
+      "review": "전쟁과 평화, 인간의 운명을 다룬 대작입니다. 등장인물이 많아 헷갈리기도 했습니다. 역사적 배경이 흥미로웠습니다."
+    },
+    {
+      "title": "The Odyssey",
+      "rating": 4.8,
+      "author": "James Anderson",
+      "date": "2024-08-15",
+      "review": "오디세우스의 모험이 흥미진진했습니다. 고대 그리스 신화의 매력이 잘 살아있습니다. 오래도록 기억에 남을 책입니다."
+    },
+    {
+      "title": "The Lord of the Rings",
+      "rating": 5.0,
+      "author": "Sarah Thomas",
+      "date": "2024-09-20",
+      "review": "판타지 소설의 최고봉입니다. 중간계의 세계관이 놀라웠습니다. 모험과 우정의 이야기가 감동적이었습니다."
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "rating": 4.9,
+      "author": "William Jackson",
+      "date": "2024-10-25",
+      "review": "마법과 모험이 가득한 이야기입니다. 호그와트 학교가 정말 멋졌습니다. 어른이 되어서도 즐길 수 있는 책입니다."
+    },
+    {
+      "title": "Brave New World",
+      "rating": 4.3,
+      "author": "Emma White",
+      "date": "2024-11-05",
+      "review": "미래 사회의 디스토피아를 그렸습니다. 인간의 본성과 자유를 생각하게 합니다. 충격적인 결말이었습니다."
+    },
+    {
+      "title": "Jane Eyre",
+      "rating": 4.6,
+      "author": "Oliver Harris",
+      "date": "2024-12-10",
+      "review": "제인의 독립적인 성격이 인상적입니다. 로체스터와의 사랑 이야기가 감동적입니다. 시대를 앞서간 여성 캐릭터입니다."
+    },
+    {
+      "title": "Wuthering Heights",
+      "rating": 4.1,
+      "author": "Charlotte Clark",
+      "date": "2024-12-25",
+      "review": "열정적이고 파괴적인 사랑 이야기입니다. 히스클리프의 캐릭터가 매력적입니다. 다소 어두운 분위기입니다."
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "rating": 4.4,
+      "author": "Daniel Lewis",
+      "date": "2024-11-30",
+      "review": "영혼을 파는 대가로 얻는 영원한 젊음 이야기입니다. 도리언의 타락 과정이 충격적이었습니다. 깊이 있는 철학적 주제가 좋았습니다."
+    },
+    {
+      "title": "Frankenstein",
+      "rating": 4.0,
+      "author": "Mia Young",
+      "date": "2024-10-15",
+      "review": "인간과 과학의 경계를 다룬 소설입니다. 괴물의 고독과 고통이 느껴졌습니다. 고딕 소설의 매력이 있습니다."
+    }
+  ]
+}
