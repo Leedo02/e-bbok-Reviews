@@ -1,4 +1,7 @@
 # e-book-Reviews
+<사용한 라이브러리 및 프레임워크>
+- tailwindCSS
+- react + vite
 
 <현재 진행 상황>
 - 헤더 스타일 적용
